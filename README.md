@@ -8,7 +8,7 @@
 
 ```mermaid
 gantt
-    title 專案甘特圖
+    title 甘特圖
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
@@ -25,3 +25,4 @@ gantt
     使用者訓練: t10, after t7, 20d
     使用者測試: t11, after t9, 25d
 ```
+
