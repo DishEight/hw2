@@ -59,3 +59,6 @@ digraph {
     no10->no11
 }
 ```
+
+
+![PERT](PERT.png "PERT")
