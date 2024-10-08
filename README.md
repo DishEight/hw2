@@ -61,4 +61,4 @@ digraph {
 ```
 
 
-![PERT](PERT.png "PERT")
+![PERT](PERT2.png "PERT")
